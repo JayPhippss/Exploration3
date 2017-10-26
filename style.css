@@ -4,7 +4,7 @@
 
 body{
     background-color: dimgrey;
-    color: blanchedalmond;
+    color: black;
     line-height: 1.6;
     font-family: sans-serif;
     padding: 1em;
@@ -46,3 +46,4 @@ body{
 .contact form .full{
     grid-column: 1/3;
 }
+
